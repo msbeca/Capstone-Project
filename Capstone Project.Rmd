@@ -21,8 +21,8 @@ FI's will be interested in this information because it could *transform* the ban
 
 ### What data are you going to use for this? How will you acquire this data?
 
-The data I am going to use is historical pricing of Bitcoin which I obtained from [Kaggle.com]( 
-https://www.kaggle.com/sudalairajkumar/cryptocurrencypricehistory)
+The data I am going to use is historical pricing of Bitcoin which I obtained from [Quandl.com]( 
+https://blog.quandl.com/api-for-bitcoin-data)
 
 ```{r bitcoin_price, echo=FALSE}
 summary(bitcoin_price)
